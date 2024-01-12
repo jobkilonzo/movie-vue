@@ -14,7 +14,7 @@ const url = 'https://moviesdatabase.p.rapidapi.com/titles/x/upcoming';
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': 'dcc5eb45cemshef131723b6d507ep18c5a7jsn87c5d7763852',
+        'X-RapidAPI-Key': 'key',
         'X-RapidAPI-Host': 'moviesdatabase.p.rapidapi.com'
     }
 };
